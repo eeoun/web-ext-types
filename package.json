@@ -1,0 +1,8 @@
+{
+  "name": "web-ext-types",
+  "version": "1.0.0",
+  "description": "",
+  "typings": "types/web-ext.d.ts",
+  "author": "Mosan",
+  "license": "BSD"
+}
